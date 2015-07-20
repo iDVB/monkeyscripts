@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         AutoHide Chatter
+// @name         AutoHideChatter
 // @namespace    http://danvanbrunt.com/
 // @version      0.1
 // @description  Auto hide the chatter panel on all task pages.
